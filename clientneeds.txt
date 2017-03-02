@@ -1,0 +1,45 @@
+Large enrollment bio classese, upper limit is 400 students
+
+Teach every semester
+
+This seemster experimenting with groups, grouping by area.
+
+Students currentyl take diagnositc exam called pre-test. Answer same questions at the end of the semester. 
+
+Looks at scores on pretest and randomizes them so that each group has a variety of different scores
+Google form used for seating requests (due to eyesight, hearing, distractions, mobility issues)
+
+450 students 70 requests
+
+200 students 30 requests, 20% of students have a preference/request
+
+Seat map, pretest scores are rated as medium/medium high etc.
+
+Want onyen associated with it.
+
+Hours to put excel spreadsheet together for groups.
+
+Randomization based on gender/race - want diverse groups.
+
+Pretest scores, race, ethnicity, background, skills, 
+
+Complexity: one class setting where entire class is full, and one room where there are fewer people.
+
+Gsb 100,  teaches in different room ( gsb 200)
+
+Program is to group based on size of classroom as well. 
+
+Wants seat capacity, but wants certain seats to be empty, 
+
+Want to use group numbers to present or share with class. Team name would be nice.
+
+Some students drop the class, group members don't know that group member 
+
+Learning catalytics - currently they need to drag and drop student names into seating chart.
+
+Want to be able to shuffle groups again in the case where a group has 1 student due to dropped members. 
+
+Program already knows 
+
+
+Students wanted preferences such as aisle seat, extra space in seats near wall.
