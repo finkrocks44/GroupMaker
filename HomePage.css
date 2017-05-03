@@ -1,0 +1,19 @@
+@import url("bootstrap.min.css");
+@import url("bootstrap-theme.css");
+body{
+background: url('background4.jpg') no-repeat center center fixed;
+background-size: cover;
+overflow: hidden;
+}
+#panel1{
+color: white;
+padding-left: 20px;
+padding-right: 20px;
+font-size: 21px;
+}
+.comicsans{
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.comi2{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}

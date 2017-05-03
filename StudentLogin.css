@@ -1,0 +1,21 @@
+@import url("bootstrap.min.css");
+@import url("bootstrap-theme.css");
+
+body{
+background: url('background3.jpg') no-repeat center center fixed;
+background-size: cover;
+}
+#loadStudentHome {
+ opacity: 0.9;
+ margin-top:200px;
+ margin-bottom: 100px;
+ margin-right: 300px;
+ margin-left: 300px;
+}
+#registration{
+  opacity: 0.9;
+  margin-top:100px;
+  margin-bottom: 50px;
+  margin-right: 100px;
+  margin-left: 300px;
+}

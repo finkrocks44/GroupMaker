@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script src="StudentLogin.js"></script>
+  <link rel="stylesheet" type="text/css" href="StudentLogin.css">
+</head>
+
+<body>
+<div class="col-md-6 col-md-offset-2" id="loadStudentHome">
+    <div class="panel panel-default">
+    <div class="panel-heading">
+      <strong class="">Login</strong>
+      </div>
+      <div class="panel-body">
+    <div class="form-group">
+        <div class="col-md-9">
+          <form class="form-horizontal" id="login-form">
+            <label for="username">Onyen</label>
+            <input type="text" class="form-control" name="username" placeholder="Enter Onyen">
+            <label for="password">Password</label>
+            <input type="password" class="form-control" name="password" placeholder="Enter Password">
+            <button type="submit" class="btn btn-primary" id="login">Login</button>
+          </form>
+          <div class="panel-footer">Not Registered? <a href="#" id="signup">Register here</a>
+        </div>
+      </div>
+  </div>
+</div>
+</div>
+</div>
+<div class="col-md-6" id="registration">
+  <div class="panel panel-default">
+  <div class="panel-heading">
+    <strong>Register</strong>
+    </div>
+    <div class="panel-body">
+  <div class="form-group">
+    <div class="col-md-6">
+      <form class="form-horizontal" id="register-form">
+            <label for="firstname">First Name</label>
+            <input type="text" class="form-control" name="firstname" placeholder="Enter First Name">
+            <label for="lastname">Last Name</label>
+            <input type="text" class="form-control" name="lastname" placeholder="Enter Last Name">
+            <label for="username">Onyen</label>
+            <input type="text" class="form-control" name="rusername" placeholder="Enter Onyen">
+            <label for="password">Password</label>
+            <input type="password" class="form-control" name="rpassword" placeholder="Enter Password">
+            <label for="password">Re-Enter Password</label>
+            <input type="password" class="form-control" name="confirmpassword" placeholder="Enter Password Again">
+            <button type="submit" class="btn btn-primary" id="register">Register</button>
+            <div class="panel-footer">Ready to Sign-in Now? <a href="#" id="signin">Sign-In</a></div>
+        </form>
+  </div>
+  </div>
+</div>
+</div>
+</div>
+</body>
+</html>
